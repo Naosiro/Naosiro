@@ -21,13 +21,16 @@ Te damos la bienvenida al Wikiportal canino, pensado para ser la página princip
 
 <img src="https://media.giphy.com/media/xUA7bi3KTfuK2a6Kn6/giphy.gif" width="35px">
 
-**Con php** es un lenguaje de programación de uso general que se adapta especialmente al desarrollo web.​ Fue creado inicialmente por el programador danés-canadiense Rasmus Lerdorf en 1994.​ En la actualidad, la implementación de referencia de PHP es producida por The PHP Group
+## **Javascript:** 
 
-- Google Analytics
-- Php con Laravel
-	- MVC
-- C#
-- C++
-- 
+JavaScript es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos, basado en prototipos, imperativo, débilmente tipado y dinámico.
 
-#Php link [Php link](https://www.php.net/manual/es/indexes.functions.php "Php link")
+- HTML 5
+- CSS
+- Javascript
+	- Node.js
+	- Discord.js
+
+#Node.js [link](https://nodejs.org/es/)
+
+#Discord.js [link](https://discord.js.org/#/)
