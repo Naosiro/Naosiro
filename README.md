@@ -21,16 +21,8 @@ Te damos la bienvenida al Wikiportal canino, pensado para ser la página princip
 
 <img src="https://media.giphy.com/media/xUA7bi3KTfuK2a6Kn6/giphy.gif" width="35px">
 
-## **Javascript:** 
-
-JavaScript es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos, basado en prototipos, imperativo, débilmente tipado y dinámico.
-
 - HTML 5
 - CSS
 - Javascript
-	- Node.js
-	- Discord.js
-
-#Node.js [link](https://nodejs.org/es/)
-
-#Discord.js [link](https://discord.js.org/#/)
+	- Node.js ([link](https://nodejs.org/es/))
+	- Discord.js ([link](https://discord.js.org/#/))
