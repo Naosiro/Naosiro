@@ -15,11 +15,8 @@ Te damos la bienvenida al Wikiportal canino, pensado para ser la página princip
 
 ## Con que trabajo:
 
-<code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></a></code>
-<code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
 <code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-<code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_appengine/google_appengine-ar21.svg"></a></code>
 
 
 <img src="https://media.giphy.com/media/xUA7bi3KTfuK2a6Kn6/giphy.gif" width="35px">
