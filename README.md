@@ -7,7 +7,15 @@
 <div>
 
 <p align="center"> Hola, me llamo Boris y generalmente me conocen como "Naosiro" o "Nao". Para empezar, vivo en Argentina, tengo 17 años y Me Gusta Programar 💻 como tambien tomar Cafe ☕, entre otras cosas... ✨
-Utilizo Mucho las Redes Sociales, 
+</p>
+<p align="center">
+Generalmente soy intuitivo, comprometido, poco perspicaz, etc... 
+</p>
+<p align="center">
+Y espero que puedas conocerme mejor ;) 
+</p>
+<p align="center">
+Saludos!! 👋
 </p>
 
 ## Mis Intereses...
