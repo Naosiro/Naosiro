@@ -2,7 +2,7 @@
 
 <h1 align="center">Welcome to my Github!</h1>
 
-<div align="right">
+<div>
 <img align="right" width="350px" src="https://media.giphy.com/media/7GtHShrBgOneM/giphy.gif">
 <div>
 
