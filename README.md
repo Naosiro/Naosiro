@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" width="100%" alt="analisis" src="https://github.com/vanevrb/repo/blob/main/images/banner.gif">
+<img align="center" width="100%" alt="analisis" src="https://i.imgur.com/EbyWBQ3.gif">
 </div>
 
 <div align="center">
