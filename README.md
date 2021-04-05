@@ -19,16 +19,14 @@ Saludos!! 👋
 </p>
 
 ## Mis Intereses...
-
-- Me interesa y gusta la Programación ⌨
-- Me gustan los Videojuegos como la impresion 3D 🎮
-- Me gusta escuchar generalmente todos los generos de Musica 🎵
-- Me gusta el Diseño Grafico
-
 <div class="imagen">
 <img align="right" width="350px" src="https://i.giphy.com/media/dxODB9UE879RDqAh3o/giphy.webp">
 <div>
-
+	
+- Me interesa y gusta la Programación ⌨
+- Me gustan los Videojuegos como la impresion 3D 🎮
+- Me gusta escuchar generalmente todos los generos de Musica 🎵
+- Me gusta el Diseño Grafico	
 - Me gusta Mirar: 
 	- Anime ⛩
 	- Peliculas 🎞
