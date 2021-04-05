@@ -4,10 +4,10 @@
 
 <h1 align="center">Welcome to my Github!</h1>
 
-<div style="text-align: center"><img src="https://media.giphy.com/media/7GtHShrBgOneM/giphy.gif" width="100" /></div>
+
 
 <div align="center">
-
+<img width="50%" src="https://media.giphy.com/media/7GtHShrBgOneM/giphy.gif">
 <p align="center"> Hola, me llamo Boris y generalmente me conocen como "Naosiro" o "Nao". Para empezar, vivo en Argentina, tengo 17 años y Me Gusta Programar 💻 como tambien tomar Cafe ☕, entre otras cosas... ✨
 </p>
 <p align="center">
