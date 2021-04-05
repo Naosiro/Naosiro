@@ -1,13 +1,11 @@
-<html>
-	<body>
 <img align="center" style="border-radius: 1%" width="100%" alt="analisis" src="https://s4.gifyu.com/images/Portada-para-Github.gif">
 
 <h1 align="center">Welcome to my Github!</h1>
 
+<div align="right">
+<img align="right" width="350px" src="https://media.giphy.com/media/7GtHShrBgOneM/giphy.gif">
+<div>
 
-
-<div align="center">
-<img width="50%" src="https://media.giphy.com/media/7GtHShrBgOneM/giphy.gif">
 <p align="center"> Hola, me llamo Boris y generalmente me conocen como "Naosiro" o "Nao". Para empezar, vivo en Argentina, tengo 17 años y Me Gusta Programar 💻 como tambien tomar Cafe ☕, entre otras cosas... ✨
 </p>
 <p align="center">
@@ -19,9 +17,7 @@ Y espero que puedas conocerme mejor ;)
 <p align="center">
 Saludos!! 👋
 </p>
-<div>
-	</body>
-</html>
+
 ### Con que trabajo:
 
 <code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
