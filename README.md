@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" width="100%" alt="analisis" src="https://im.ezgif.com/tmp/ezgif-1-d4a3645efb13.gif">
+<img align="center" width="100%" alt="analisis" src="blob:https://giphy.com/866cff8f-4c6e-4b4d-88bc-19a61c4da02c">
 </div>
 
 # Bienvenido
