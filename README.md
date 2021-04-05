@@ -2,11 +2,11 @@
 
 <h1 align="center">Welcome to my Github!</h1>
 
-<div class="imagen" style="border:red" align="right">
-<img style="border-radius:50%" align="right" width="350px" src="https://media.giphy.com/media/7GtHShrBgOneM/giphy.gif">
+<div class="imagen">
+<img align="right" width="350px" src="https://media.giphy.com/media/7GtHShrBgOneM/giphy.gif">
 <div>
 
-<p align="center"> Hola, my name is Boris y my nickname is "Naosiro" (Mis panas me Dicen "Nao"), vivo en Argentina, Ciudad Autonoma de Buenos Aires aimismo tengo 17 años y Me Gusta Programar 💻 como tambien tomar Cafe ☕.
+<p align="center"> Hola, me llamo Boris y la comunidad en general me conocen como "Naosiro"('Nao' para mis amigos), vivo en Argentina, Ciudad Autonoma de Buenos Aires aimismo tengo 17 años y Me Gusta Programar 💻 como tambien tomar Cafe ☕.
 Utilizo Mucho las Redes Sociales, 
 </p>
 
