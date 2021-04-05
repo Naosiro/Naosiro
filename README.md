@@ -3,11 +3,11 @@
 <img align="center" style="border-radius: 1%" width="100%" alt="analisis" src="https://s4.gifyu.com/images/Portada-para-Github.gif">
 
 <h1 align="center">Welcome to my Github!</h1>
-<p align="center"> Hola, my name is Boris y my nickname is "Naosiro" (Mis panas me Dicen "Nao") Tengo 17 años y Me Gusta Programar como tambien tomar Cafe ☕ </p>
 
 <div align="right">
-<img align="right" style="border-radius: 8%; width: 200px" src="https://media.giphy.com/media/7GtHShrBgOneM/giphy.gif">
+<img align="right" width="400px" style="border-radius: 8%" src="https://media.giphy.com/media/7GtHShrBgOneM/giphy.gif">
 <div>
+<p align="center"> Hola, my name is Boris y my nickname is "Naosiro" (Mis panas me Dicen "Nao") Tengo 17 años y Me Gusta Programar como tambien tomar Cafe ☕ </p>
 	
 <h2 align="center">Mis Intereses..</h2>
 <img align="center" src="https://i.giphy.com/media/dxODB9UE879RDqAh3o/giphy.webp" width="100px">
