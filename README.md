@@ -2,10 +2,6 @@
 <img align="center" width="100%" alt="analisis" src="https://im.ezgif.com/tmp/ezgif-1-d4a3645efb13.gif">
 </div>
 
-<div align="center">
-<img align="center" width="500px" alt="analisis" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617609187614.png">
-</div>
-
 # Bienvenido
 
 Te damos la bienvenida al Wikiportal canino, pensado para ser la página principal de aquellas personas interesadas y amantes de los perros y todo lo relacionado con estos animales.
