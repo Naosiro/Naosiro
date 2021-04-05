@@ -6,7 +6,7 @@
 <img align="right" width="350px" src="https://media.giphy.com/media/7GtHShrBgOneM/giphy.gif">
 <div>
 
-<p align="center"> Hola, me llamo Boris y la comunidad en general me conocen como "Naosiro"('Nao' para mis amigos), vivo en Argentina, Ciudad Autonoma de Buenos Aires aimismo tengo 17 años y Me Gusta Programar 💻 como tambien tomar Cafe ☕.
+<p align="center"> Hola, me llamo Boris y la comunidad en general me conocen como "Naosiro" o "Nao", vivo en Argentina, Ciudad Autonoma de Buenos Aires aimismo tengo 17 años y Me Gusta Programar 💻 como tambien tomar Cafe ☕.
 Utilizo Mucho las Redes Sociales, 
 </p>
 
