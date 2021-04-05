@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" width="100%" alt="analisis" src="https://i.imgur.com/EbyWBQ3.gif">
+<img align="center" width="100%" alt="analisis" src="https://im.ezgif.com/tmp/ezgif-1-d4a3645efb13.gif">
 </div>
 
 <div align="center">
