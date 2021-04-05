@@ -9,8 +9,6 @@
 <p align="center"> Hola, my name is Boris y my nickname is "Naosiro" (Mis panas me Dicen "Nao"), vivo en Argentina, Ciudad Autonoma de Buenos Aires aimismo tengo 17 años y Me Gusta Programar 💻 como tambien tomar Cafe ☕.
 Utilizo Mucho las Redes Sociales, 
 </p>
-⠀
-⠀
 
 ## Mis Intereses...
 - Me gustan los Videojuegos como la impresion 3D
