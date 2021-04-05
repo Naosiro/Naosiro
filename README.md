@@ -5,7 +5,7 @@
 <h1 align="center">Welcome to my Github!</h1>
 
 <div align="right">
-<img align="right" width="400px" style="border-radius: 8%" src="https://media.giphy.com/media/7GtHShrBgOneM/giphy.gif">
+<img align="right" width="350px" style="border-radius: 8%" src="https://media.giphy.com/media/7GtHShrBgOneM/giphy.gif">
 <div>
 <p align="center"> Hola, my name is Boris y my nickname is "Naosiro" (Mis panas me Dicen "Nao") Tengo 17 años y Me Gusta Programar como tambien tomar Cafe ☕ </p>
 	
