@@ -14,9 +14,6 @@ Te damos la bienvenida al Wikiportal canino, pensado para ser la página princip
 <code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 
-
-<img src="https://media.giphy.com/media/xUA7bi3KTfuK2a6Kn6/giphy.gif" width="35px">
-
 - HTML 5
 - CSS
 - Javascript
