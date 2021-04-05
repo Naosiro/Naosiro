@@ -1,6 +1,6 @@
 <main align="center">
 
-<img align="center" style="border-radius: 1%; width=100%" alt="analisis" src="https://s4.gifyu.com/images/Portada-para-Github.gif">
+<img align="center" style="border-radius: 1%" width="100%" alt="analisis" src="https://s4.gifyu.com/images/Portada-para-Github.gif">
 
 <h1 align="center">Welcome to my Github!</h1>
 <p> Hola, my name is Boris y my nickname is "Naosiro" (Mis panas me Dicen "Nao") Tengo 17 años y Me Gusta Programar como tambien tomar Cafe ☕ </p>
