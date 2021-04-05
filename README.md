@@ -19,12 +19,26 @@ Saludos!! 👋
 </p>
 
 ## Mis Intereses...
-- Me gustan los Videojuegos como la impresion 3D
 
-<img align="center" src="https://i.giphy.com/media/dxODB9UE879RDqAh3o/giphy.webp" width="100px">
+- Me interesa y gusta la Programación ⌨
+- Me gustan los Videojuegos como la impresion 3D 🎮
+- Me gusta escuchar generalmente todos los generos de Musica 🎵
+- Me gusta el Diseño Grafico
 
+<div class="imagen">
+<img align="right" width="350px" src="https://i.giphy.com/media/dxODB9UE879RDqAh3o/giphy.webp">
+<div>
 
-<img align="top" src="https://media.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif" width="100px">
+- Me gusta Mirar: 
+	- Anime ⛩
+	- Peliculas 🎞
+	- Series 📺
+	- Documentales 📹
+	- Y Videos de YouTube 📱
+- Me gusta Leer:
+	- Novelas Ligeras 📕
+	- Entre Otros 📚
+
 
 ### Con que trabajo:
 
