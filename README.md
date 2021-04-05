@@ -20,7 +20,8 @@ Y espero que puedas conocerme mejor ;)
 Saludos!! 👋
 </p>
 <div>
-
+	</body>
+</html>
 ### Con que trabajo:
 
 <code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
@@ -31,5 +32,4 @@ Saludos!! 👋
 - Javascript
 	- Node.js ([link](https://nodejs.org/es/))
 	- Discord.js ([link](https://discord.js.org/#/))
-	</body>
-</html>
+
