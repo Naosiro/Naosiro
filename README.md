@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img align="center" width="500px" alt="analisis" src="https://github.com/vanevrb/repo/blob/main/images/unnamed%20(2).png">
+<img align="center" width="500px" alt="analisis" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617609187614.png">
 </div>
 
 # Bienvenido
