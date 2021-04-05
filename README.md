@@ -3,8 +3,7 @@
 </div>
 
 # Welcome!!! My name is...
-a
-Te damos la bienvenida al Wikiportal canino, pensado para ser la página principal de aquellas personas interesadas y amantes de los perros y todo lo relacionado con estos animales.
+Hola, mi nombre es Boris y mi apodo "Naosiro"
 
 <h1> Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1> 
 
