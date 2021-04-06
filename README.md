@@ -33,9 +33,12 @@ Saludos!! 👋
 <code><a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank"><img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/json.svg"></a></code>
 </div>
 
-<p align="center">
+<div align="center">
 <h3>Stats:</h3>
+</div>
 
+
+<p align="center">
 <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=Naosiro&show_icons=true&theme=tokyonight">
 </p>
 
