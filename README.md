@@ -42,3 +42,6 @@ Saludos!! 👋
 <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=Naosiro&show_icons=true&theme=tokyonight">
 </p>
 
+<div align="center">
+<h6>Version 1.0</h6>
+</div>
