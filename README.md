@@ -19,7 +19,7 @@ Saludos!! 👋
 </p>
 ㅤ
 <p align="center">
-<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=Naosiro&show_icons=true&theme=tokyonight">
+<img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=Naosiro&show_icons=true&theme=tokyonight">
 </p>
 
 ### Con que trabajo:
