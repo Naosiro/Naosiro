@@ -28,7 +28,7 @@ Saludos!! 👋
 <div align="center">
 <h3>Mis Areas:</h3>
 
-<code align="center"><a href="https://lenguajehtml.com/" target="_blank"><img align="center" height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
+<code><a href="https://lenguajehtml.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
 <code><a href="https://lenguajecss.com/css/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/master/icons/css.svg"></a></code>
 <code><a href="https://lenguajejs.com/javascript/" target="_blank"><img height="50" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"></a></code>
 <code><a href="https://nodejs.org/es/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/logos/nodejs-icon.svg"></a></code>
