@@ -18,11 +18,12 @@ Y espero que puedas conocerme mejor ;)
 Saludos!! 👋
 </p>
 ㅤ
+ㅤ
 <p align="center">
 <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=Naosiro&show_icons=true&theme=tokyonight">
 </p>
 
-### Con que trabajo:
+### Mis Areas:
 
 <code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
