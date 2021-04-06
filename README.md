@@ -19,14 +19,20 @@ Saludos!! 👋
 </p>
 ㅤ
 ㅤ
+ㅤ
+ㅤ
 <p align="center">
-<img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=Naosiro&show_icons=true&theme=tokyonight">
+<img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=Naosiro&show_icons=true&theme=tokyonight">
 </p>
 
 ### Mis Areas:
 
-<code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-<code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"></a></code>
+<code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
+<code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/master/icons/css.svg"></a></code>
+<code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/logos/nodejs-icon.svg"></a></code>
+<code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://discord.js.org/static/logo-square.png"></a></code>
+<code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></a></code>
 
 - HTML 5
 - CSS
