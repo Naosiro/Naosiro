@@ -21,7 +21,7 @@ Saludos!! 👋
 ㅤ
 ㅤ
 ㅤ
-ㅤ
+<div align="center">
 <h2 align="center">Areas!</h2>
 
 <code><a href="https://lenguajehtml.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
@@ -31,13 +31,11 @@ Saludos!! 👋
 <code><a href="https://discord.js.org/#/" target="_blank"><img height="50" src="https://discord.js.org/static/logo-square.png"></a></code>
 <code><a href="https://www.npmjs.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></a></code>
 <code><a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank"><img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/json.svg"></a></code>
+</div>
+
+<h3>Stats:</h3>
 
 <p align="center">
 <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=Naosiro&show_icons=true&theme=tokyonight">
 </p>
 
-<div align="center">
-<h3>Stats:</h3>
-
-
-</div>
