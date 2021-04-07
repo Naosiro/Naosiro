@@ -47,7 +47,13 @@ Saludos!! 👋
 </div>
 
 <p align="center">
-
+<a href="https://lenguajehtml.com/"><img height="30" src="https://github.com/Naosiro/Naosiro/blob/main/icons/github.svg"></a>
+<a href="https://lenguajehtml.com/"><img height="30" src="https://github.com/Naosiro/Naosiro/blob/main/icons/discord.svg"></a>
+<a href="https://lenguajehtml.com/"><img height="30" src="https://github.com/Naosiro/Naosiro/blob/main/icons/steam.svg"></a>
+<a href="https://lenguajehtml.com/"><img height="30" src="https://github.com/Naosiro/Naosiro/blob/main/icons/spotify.svg"></a>
+<a href="https://lenguajehtml.com/"><img height="30" src="https://github.com/Naosiro/Naosiro/blob/main/icons/twitter.svg"></a>
+<a href="https://lenguajehtml.com/"><img height="30" src="https://github.com/Naosiro/Naosiro/blob/main/icons/twitch.svg"></a>
+<a href="https://lenguajehtml.com/"><img height="25" src="https://github.com/Naosiro/Naosiro/blob/main/icons/mail.svg"></a>
 </p>
 
 <div align="center">
