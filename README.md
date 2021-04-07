@@ -1,9 +1,9 @@
-https://github.com/Naosiro/Naosiro/blob/main/image/1.gif
+<img align="center" style="border-radius: 1%" width="100%" alt="Portada" src="https://github.com/Naosiro/Naosiro/blob/main/image/1.gif">
 
 <h1 align="center">Welcome to my Github!</h1>
 
 <div>
-<img align="right" width="350px" src="https://media.giphy.com/media/7GtHShrBgOneM/giphy.gif">
+<img align="right" width="350px" alt="Miniatura" src="https://media.giphy.com/media/7GtHShrBgOneM/giphy.gif">
 <div>
 
 <p align="center"> Hola, me llamo Boris y generalmente me conocen como "Naosiro" o "Nao". Para empezar, vivo en Argentina, tengo 17 años y Me Gusta Programar 💻 como tambien tomar Cafe ☕, entre otras cosas... ✨
@@ -39,7 +39,7 @@ Saludos!! 👋
 
 
 <p align="center">
-<img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=Naosiro&show_icons=true&theme=tokyonight">
+<img align="center" width="450px" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Naosiro&show_icons=true&theme=tokyonight">
 </p>
 
 <div align="center">
