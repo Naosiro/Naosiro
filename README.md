@@ -47,13 +47,13 @@ Saludos!! 👋
 </div>
 
 <p align="center">
-<a href="https://github.com/Naosiro"><img height="30" src="https://github.com/Naosiro/Naosiro/blob/main/icons/github.svg"></a>
-<a href="https://github.com/Naosiro"><img height="30" src="https://github.com/Naosiro/Naosiro/blob/main/icons/discord.svg"></a>
-<a href="https://steamcommunity.com/id/naosiro/"><img height="30" src="https://github.com/Naosiro/Naosiro/blob/main/icons/steam.svg"></a>
+<a href="https://github.com/Naosiro"><img height="40" src="https://github.com/Naosiro/Naosiro/blob/main/icons/github.svg"></a>
+<a href="https://github.com/Naosiro"><img height="40" src="https://github.com/Naosiro/Naosiro/blob/main/icons/discord.svg"></a>
+<a href="https://steamcommunity.com/id/naosiro/"><img height="40" src="https://github.com/Naosiro/Naosiro/blob/main/icons/steam.svg"></a>
 <a href="https://open.spotify.com/user/v4zzzki13u3ssgtzl2qt9dk7b"><img height="30" src="https://github.com/Naosiro/Naosiro/blob/main/icons/spotify.svg"></a>
-<a href="https://twitter.com/_Naosiro_"><img height="30" src="https://github.com/Naosiro/Naosiro/blob/main/icons/twitter.svg"></a>
-<a href="https://www.twitch.tv/naosiro"><img height="30" src="https://github.com/Naosiro/Naosiro/blob/main/icons/twitch.svg"></a>
-<a href="https://github.com/Naosiro"><img height="25" src="https://github.com/Naosiro/Naosiro/blob/main/icons/mail.svg"></a>
+<a href="https://twitter.com/_Naosiro_"><img height="40" src="https://github.com/Naosiro/Naosiro/blob/main/icons/twitter.svg"></a>
+<a href="https://www.twitch.tv/naosiro"><img height="40" src="https://github.com/Naosiro/Naosiro/blob/main/icons/twitch.svg"></a>
+<a href="https://github.com/Naosiro"><img height="35" src="https://github.com/Naosiro/Naosiro/blob/main/icons/mail.svg"></a>
 </p>
 
 <div align="center">
