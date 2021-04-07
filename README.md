@@ -43,5 +43,13 @@ Saludos!! 👋
 </p>
 
 <div align="center">
+<h4>Mis Redes:</h4>
+</div>
+
+<p align="center">
+
+</p>
+
+<div align="center">
 <h6>Version 1.1</h6>
 </div>
