@@ -1,8 +1,4 @@
-<img align="center" style="border-radius: 1%" width="100%" alt="analisis" src="https://s4.gifyu.com/images/Portada-para-Github.gif">
-
-![](https://pandao.github.io/Naosiro/Naosiro/PortadaparaGithub.gif)
-
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+https://github.com/Naosiro/Naosiro/blob/main/image/1.gif
 
 <h1 align="center">Welcome to my Github!</h1>
 
