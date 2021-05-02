@@ -1,4 +1,4 @@
-<img align="center" style="border-radius: 1%" width="100%" alt="Portada" src="https://github.com/Naosiro/Naosiro/blob/main/image/1.gif">
+<img align="center" style="border-radius: 1%" width="100%" alt="Portada" src="https://github.com/Naosiro/Naosiro/blob/main/image/Portada.gif">
 
 <h1 align="center">Welcome to my Github!</h1>
 
