@@ -3,7 +3,7 @@
 <h1 align="center">Welcome to my Github!</h1>
 
 <div>
-<img align="right" width="350px" alt="Miniatura" src="https://i.pinimg.com/originals/67/56/1a/67561a53eaf4cfccc9417aacb7f514eb.gif">
+<img align="right" width="350px" alt="Miniatura" src="https://64.media.tumblr.com/f6cae2c3b1f01125e3b1d2ae50fd021c/b6430c13a74a7a7e-90/s540x810/fa9d7212841c80e3140a7ac44779b41295f12e9b.gifv">
 <div>
 
 <p align="center"> Hola, me llamo Boris y generalmente me conocen como "Naosiro" o "Nao". Para empezar, vivo en Argentina, tengo 17 años y Me Gusta Programar 💻 como tambien tomar Cafe ☕, entre otras cosas... ✨
