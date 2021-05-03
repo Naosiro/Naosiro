@@ -38,8 +38,8 @@ Saludos!! 👋
 </div>
 
 <div align="center">
-<img align="left" width="410px" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Naosiro&show_icons=true&theme=algolia">
-<img align="right" width="400px" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naosiro&layout=compact&theme=algolia">
+<img width="410px" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Naosiro&show_icons=true&theme=algolia">
+<img width="400px" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naosiro&layout=compact&theme=algolia">
 </div>
 
 <div align="center">
