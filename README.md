@@ -39,10 +39,10 @@ Saludos!! 👋
 
 
 <p aling="left">
-<img align="center" width="450px" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Naosiro&show_icons=true&theme=algolia">
+<img align="left" width="450px" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Naosiro&show_icons=true&theme=algolia">
 </p>
 <p aling="right">
-<img align="center" width="440px" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naosiro&layout=compact&theme=algolia">
+<img align="right" width="440px" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naosiro&layout=compact&theme=algolia">
 </p>
 
 <div align="center">
