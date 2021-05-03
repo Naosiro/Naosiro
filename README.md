@@ -38,7 +38,7 @@ Saludos!! 👋
 </div>
 
 
-<p align="center">
+<p align="center" style="display: block">
 <img align="center" width="450px" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Naosiro&show_icons=true&theme=algolia">
 <img align="center" width="440px" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naosiro&layout=compact&theme=algolia">
 </p>
