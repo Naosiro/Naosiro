@@ -38,8 +38,8 @@ Saludos!! 👋
 </div>
 
 
-<img align="left" width="420px" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Naosiro&show_icons=true&theme=algolia">
-<img align="right" width="410px" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naosiro&layout=compact&theme=algolia">
+<img align="left" width="415px" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Naosiro&show_icons=true&theme=algolia">
+<img align="right" width="405px" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naosiro&layout=compact&theme=algolia">
 
 <div align="center">
 <h4>Mis Redes:</h4>
