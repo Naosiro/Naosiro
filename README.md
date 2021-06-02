@@ -59,5 +59,5 @@ Saludos!! 👋
 </p>
 
 <div align="center">
-<h6>Version 1.2.2</h6>
+<h6>Version 1.2.3</h6>
 </div>
