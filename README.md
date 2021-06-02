@@ -31,6 +31,10 @@ Saludos!! 👋
 <code><a href="https://discord.js.org/#/" target="_blank"><img height="50" src="https://discord.js.org/static/logo-square.png"></a></code>
 <code><a href="https://www.npmjs.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></a></code>
 <code><a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank"><img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/json.svg"></a></code>
+</code>
+<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/fizzed/font-mfizz/ccff3ec9555918c0a67ed6b5f360af5841045e3e/src/svg/mysql.svg"></a></code>
+</code>
+<code><a href="https://www.apachefriends.org/es/index.html" target="_blank"><img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xampp.svg"></a></code>
 </div>
 
 <div align="center">
