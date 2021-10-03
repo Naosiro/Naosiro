@@ -53,9 +53,9 @@ Saludos!! 👋
 <p align="center">
 <a href="https://github.com/Naosiro"><img height="40" src="https://github.com/Naosiro/Naosiro/blob/main/icons/github.svg"></a>
 <a href="https://github.com/Naosiro"><img height="40" src="https://github.com/Naosiro/Naosiro/blob/main/icons/discord.svg"></a>
-<a href="https://steamcommunity.com/id/naosiro/"><img height="40" src="https://github.com/Naosiro/Naosiro/blob/main/icons/steam.svg"></a>
-<a href="https://twitter.com/_Naosiro_"><img height="40" src="https://github.com/Naosiro/Naosiro/blob/main/icons/twitter.svg"></a>
-<a href="https://www.twitch.tv/naosiro"><img height="40" src="https://github.com/Naosiro/Naosiro/blob/main/icons/twitch.svg"></a>
+<a href="https://github.com/Naosiro"><img height="40" src="https://github.com/Naosiro/Naosiro/blob/main/icons/steam.svg"></a>
+<a href="https://github.com/Naosiro"><img height="40" src="https://github.com/Naosiro/Naosiro/blob/main/icons/twitter.svg"></a>
+<a href="https://github.com/Naosiro"><img height="40" src="https://github.com/Naosiro/Naosiro/blob/main/icons/twitch.svg"></a>
 </p>
 
 <div align="center">
