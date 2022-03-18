@@ -6,7 +6,7 @@
 <img align="right" width="350px" alt="Miniatura" src="https://64.media.tumblr.com/f6cae2c3b1f01125e3b1d2ae50fd021c/b6430c13a74a7a7e-90/s540x810/fa9d7212841c80e3140a7ac44779b41295f12e9b.gifv">
 <div>
 
-<p align="center"> Hola, me llamo Boris y generalmente me conocen como "Naosiro" o "Nao". Para empezar, vivo en Argentina, tengo 17 años y Me Gusta Programar 💻 como tambien tomar Cafe ☕, entre otras cosas... ✨
+<p align="center"> Hola, me llamo Boris y generalmente me conocen como "Naosiro" o "Nao". Para empezar, vivo en Argentina, tengo 18 años y Me Gusta Programar 💻 como tambien tomar Cafe ☕, entre otras cosas... ✨
 </p>
 <p align="center">
 Generalmente soy intuitivo, comprometido, poco perspicaz, etc... 
@@ -59,5 +59,5 @@ Saludos!! 👋
 </p>
 
 <div align="center">
-<h6>Version 1.2.3</h6>
+<h6>Version 1.2.4</h6>
 </div>
